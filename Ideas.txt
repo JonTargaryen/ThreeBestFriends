@@ -1,0 +1,7 @@
+This file will store ideas for the Iowa hackathon. 
+
+Celia: 
+The ideas I have so far:
+
+DBD- Pokémon go version 
+Extreme time management- with machine learning and stuff 
